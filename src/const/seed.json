@@ -1,0 +1,1182 @@
+[
+  {
+    "learning_resource": [
+      {
+        "id": "fe67a701-a60e-4166-b95e-b296fa8bb6d4",
+        "created_at": "2023-08-07T14:31:46.568Z",
+        "updated_at": "2023-08-07T13:55:36.649Z",
+        "name": "Introduction to Python Programming"
+      },
+      {
+        "id": "7a2c3554-9d9c-4b40-a54f-78fe92ec246a",
+        "created_at": "2023-08-07T13:10:15.989Z",
+        "updated_at": "2023-08-07T08:14:45.742Z",
+        "name": "Web Development Basics"
+      },
+      {
+        "id": "dc5841cd-1210-45d4-b443-8f65e8afa058",
+        "created_at": "2023-08-07T15:57:16.121Z",
+        "updated_at": "2023-08-07T14:57:01.026Z",
+        "name": "Data Science Fundamentals"
+      },
+      {
+        "id": "b6301b6e-a078-41d2-bc02-8e3513a73e3b",
+        "created_at": "2023-08-07T23:42:00.064Z",
+        "updated_at": "2023-08-07T17:35:05.791Z",
+        "name": "Digital Marketing Strategies"
+      },
+      {
+        "id": "46f7a9dc-3735-472a-9b36-ad7a342c4819",
+        "created_at": "2023-08-07T18:01:44.032Z",
+        "updated_at": "2023-08-07T19:21:42.681Z",
+        "name": "Financial Planning 101"
+      }
+    ],
+    "course": [
+      {
+        "id": "b700303a-e2fa-4250-a7a0-cd5360fae5c6",
+        "title": "Introduction to Computer Science",
+        "description": "Learn the basics of computer science and programming",
+        "created_at": "2023-08-08T02:44:20.844Z",
+        "updated_at": "2023-08-08T01:44:03.145Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "694851c5-9735-462e-be22-b0d558f5327b",
+        "title": "Artificial Intelligence Essentials",
+        "description": "Explore the concepts and applications of artificial intelligence",
+        "created_at": "2023-08-08T02:15:09.350Z",
+        "updated_at": "2023-08-08T02:16:17.535Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "bfbbfb14-21e5-47ab-8edd-d54453406bf0",
+        "title": "Web Design and Development",
+        "description": "Master the skills required for web design and development",
+        "created_at": "2023-08-07T08:45:25.890Z",
+        "updated_at": "2023-08-08T02:53:29.360Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "dc4acf4a-7f84-447d-a4d7-f6b6bce8e51d",
+        "title": "Marketing Principles",
+        "description": "Discover effective marketing strategies and techniques",
+        "created_at": "2023-08-07T12:19:20.106Z",
+        "updated_at": "2023-08-08T04:19:50.201Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "1b101f7b-d0fd-4d0a-af39-1df806f65f26",
+        "title": "Business Finance Fundamentals",
+        "description": "Understand the fundamentals of business finance and financial management",
+        "created_at": "2023-08-07T17:48:18.763Z",
+        "updated_at": "2023-08-07T23:47:34.827Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "blog": [
+      {
+        "id": "d49881b4-dd71-44bd-9b39-5b170fd1b82d",
+        "title": "The Importance of Environmental Conservation",
+        "content": "Explore why environmental conservation is crucial for our planet",
+        "created_at": "2023-08-07T07:22:30.531Z",
+        "updated_at": "2023-08-07T17:29:22.850Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "aae9a35a-63bb-4107-bc6b-9e8d2904152e",
+        "title": "The Future of Technology",
+        "content": "Discover the latest advancements and trends in technology",
+        "created_at": "2023-08-07T18:08:31.383Z",
+        "updated_at": "2023-08-08T03:11:42.823Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "83cd3a3c-0108-4335-ae1d-d1f012549d7f",
+        "title": "Effective Leadership in Business",
+        "content": "Learn about effective leadership strategies in the business world",
+        "created_at": "2023-08-07T18:48:22.900Z",
+        "updated_at": "2023-08-07T19:37:04.396Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "9dd31e0e-08c3-4d72-bb02-10639f942dd8",
+        "title": "Healthcare Trends and Innovations",
+        "content": "Stay updated on the latest healthcare trends and innovations",
+        "created_at": "2023-08-07T21:12:32.426Z",
+        "updated_at": "2023-08-08T05:29:01.691Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "6d73e9ce-b71b-46a4-bd50-2ea3da5df67a",
+        "title": "Tips for Successful Online Learning",
+        "content": "Get valuable tips for successful online learning",
+        "created_at": "2023-08-07T14:51:30.938Z",
+        "updated_at": "2023-08-07T15:33:48.674Z",
+        "organization_id": "main_entity_pk"
+      }
+    ]
+  },
+  {
+    "learning_resource": [
+      {
+        "id": "c6c5283d-bc1f-4d5b-a2a9-71a21f41ba58",
+        "created_at": "2023-08-08T05:34:54.874Z",
+        "updated_at": "2023-08-08T04:42:32.580Z",
+        "name": "Introduction to Python Programming"
+      },
+      {
+        "id": "2cd8412a-6a6c-40fc-9141-95e966267ffc",
+        "created_at": "2023-08-07T12:34:29.023Z",
+        "updated_at": "2023-08-07T12:56:21.414Z",
+        "name": "Web Development Basics"
+      },
+      {
+        "id": "5f6f69c7-aaf2-4e23-ace0-4fe048c5761b",
+        "created_at": "2023-08-08T01:05:27.418Z",
+        "updated_at": "2023-08-08T05:32:30.790Z",
+        "name": "Data Science Fundamentals"
+      },
+      {
+        "id": "c36ef497-4516-4959-b0a3-bc3ae3c88f98",
+        "created_at": "2023-08-07T20:14:58.093Z",
+        "updated_at": "2023-08-07T23:42:21.226Z",
+        "name": "Digital Marketing Strategies"
+      },
+      {
+        "id": "ffa74b87-9bba-460d-8715-73d51c9ad4af",
+        "created_at": "2023-08-07T15:49:42.633Z",
+        "updated_at": "2023-08-08T06:26:34.248Z",
+        "name": "Financial Planning 101"
+      }
+    ],
+    "course": [
+      {
+        "id": "1ae7f6c2-3aa8-4481-9925-c1f64abd95a2",
+        "title": "Introduction to Computer Science",
+        "description": "Learn the basics of computer science and programming",
+        "created_at": "2023-08-07T22:12:55.943Z",
+        "updated_at": "2023-08-07T17:26:33.820Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "22c85bd2-0ee6-4fc8-964b-b090e67a8462",
+        "title": "Artificial Intelligence Essentials",
+        "description": "Explore the concepts and applications of artificial intelligence",
+        "created_at": "2023-08-07T19:11:13.492Z",
+        "updated_at": "2023-08-07T07:13:01.264Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "51fcca00-cd7b-4ab0-9a90-5b08b7ae67cf",
+        "title": "Web Design and Development",
+        "description": "Master the skills required for web design and development",
+        "created_at": "2023-08-08T00:56:28.325Z",
+        "updated_at": "2023-08-07T09:50:14.438Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "232dc293-d873-4b3e-83f7-5bab588d03a6",
+        "title": "Marketing Principles",
+        "description": "Discover effective marketing strategies and techniques",
+        "created_at": "2023-08-08T01:21:31.497Z",
+        "updated_at": "2023-08-07T12:25:14.286Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "91cfcfca-3058-4959-ae48-74efb04a8472",
+        "title": "Business Finance Fundamentals",
+        "description": "Understand the fundamentals of business finance and financial management",
+        "created_at": "2023-08-08T05:42:25.715Z",
+        "updated_at": "2023-08-07T11:08:14.605Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "blog": [
+      {
+        "id": "61eb0f50-87bd-4f4f-b8c1-eb4cf71ff944",
+        "title": "The Importance of Environmental Conservation",
+        "content": "Explore why environmental conservation is crucial for our planet",
+        "created_at": "2023-08-07T23:17:26.747Z",
+        "updated_at": "2023-08-07T09:36:46.420Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "1a84a273-b015-4653-a679-23c5d535b5b9",
+        "title": "The Future of Technology",
+        "content": "Discover the latest advancements and trends in technology",
+        "created_at": "2023-08-07T18:12:01.172Z",
+        "updated_at": "2023-08-07T08:20:35.177Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "01e7afb0-fa93-453f-a478-5ed49dc86e8d",
+        "title": "Effective Leadership in Business",
+        "content": "Learn about effective leadership strategies in the business world",
+        "created_at": "2023-08-07T14:35:15.266Z",
+        "updated_at": "2023-08-08T05:12:00.695Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "55fa04a6-9e10-480c-bed7-74192f538658",
+        "title": "Healthcare Trends and Innovations",
+        "content": "Stay updated on the latest healthcare trends and innovations",
+        "created_at": "2023-08-07T12:46:28.581Z",
+        "updated_at": "2023-08-08T05:12:57.059Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "811a1fdf-5fcc-4a0e-bd39-3d9e39e3cf9f",
+        "title": "Tips for Successful Online Learning",
+        "content": "Get valuable tips for successful online learning",
+        "created_at": "2023-08-07T13:40:03.876Z",
+        "updated_at": "2023-08-08T05:45:42.443Z",
+        "organization_id": "main_entity_pk"
+      }
+    ]
+  },
+  {
+    "learning_resource": [
+      {
+        "id": "7e3492de-bd23-4b5c-9c11-3cf7810d67cd",
+        "created_at": "2023-08-07T12:32:27.712Z",
+        "updated_at": "2023-08-08T06:03:39.163Z",
+        "name": "Introduction to Python Programming"
+      },
+      {
+        "id": "a7eec335-9a1a-4ef9-bd5c-8be7a2a9925e",
+        "created_at": "2023-08-07T14:13:38.364Z",
+        "updated_at": "2023-08-07T23:22:25.237Z",
+        "name": "Web Development Basics"
+      },
+      {
+        "id": "cef57c8a-4a90-43c3-9d43-4fa063170c5f",
+        "created_at": "2023-08-07T19:37:24.090Z",
+        "updated_at": "2023-08-07T15:52:32.732Z",
+        "name": "Data Science Fundamentals"
+      },
+      {
+        "id": "43a20930-22ef-42ee-a4db-b5af846c4130",
+        "created_at": "2023-08-07T08:15:28.418Z",
+        "updated_at": "2023-08-07T22:19:57.260Z",
+        "name": "Digital Marketing Strategies"
+      },
+      {
+        "id": "226e871a-43b3-4dc5-9e61-75f01af829f4",
+        "created_at": "2023-08-07T18:09:25.709Z",
+        "updated_at": "2023-08-08T00:34:12.035Z",
+        "name": "Financial Planning 101"
+      }
+    ],
+    "course": [
+      {
+        "id": "20df0ae2-c691-47ce-9200-1f99a1fdfc19",
+        "title": "Introduction to Computer Science",
+        "description": "Learn the basics of computer science and programming",
+        "created_at": "2023-08-07T18:50:02.946Z",
+        "updated_at": "2023-08-07T16:52:32.595Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "61c0aeda-4ba0-4d72-9cce-4fa024934d7a",
+        "title": "Artificial Intelligence Essentials",
+        "description": "Explore the concepts and applications of artificial intelligence",
+        "created_at": "2023-08-07T14:09:10.177Z",
+        "updated_at": "2023-08-07T19:25:41.812Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "10b70a7f-5d88-4356-9ee0-a4eb5c600a22",
+        "title": "Web Design and Development",
+        "description": "Master the skills required for web design and development",
+        "created_at": "2023-08-07T19:28:14.507Z",
+        "updated_at": "2023-08-08T00:29:28.049Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "e6bb9922-1011-45ff-bb2b-f2f659e4ca2a",
+        "title": "Marketing Principles",
+        "description": "Discover effective marketing strategies and techniques",
+        "created_at": "2023-08-07T20:54:30.785Z",
+        "updated_at": "2023-08-08T01:12:22.818Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "1636f17e-5ff6-4a7b-b791-de159ff08371",
+        "title": "Business Finance Fundamentals",
+        "description": "Understand the fundamentals of business finance and financial planning",
+        "created_at": "2023-08-07T15:08:01.945Z",
+        "updated_at": "2023-08-07T11:44:38.197Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "blog": [
+      {
+        "id": "489e53b4-24a0-4340-b30a-9949e18450e7",
+        "title": "The Importance of Environmental Conservation",
+        "content": "Explore why environmental conservation is crucial for our planet",
+        "created_at": "2023-08-07T07:33:32.145Z",
+        "updated_at": "2023-08-07T23:27:24.375Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "a214714c-d873-4bd1-9b13-97440dc95aca",
+        "title": "The Future of Technology",
+        "content": "Discover the latest advancements and trends in technology",
+        "created_at": "2023-08-07T12:41:15.586Z",
+        "updated_at": "2023-08-07T07:39:51.611Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "d47c5199-4001-4636-8231-4b035031640e",
+        "title": "Effective Leadership in Business",
+        "content": "Learn about effective leadership strategies in the business world",
+        "created_at": "2023-08-07T19:20:43.981Z",
+        "updated_at": "2023-08-08T01:39:26.593Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "1fa2bcb2-1d55-4666-9a06-9d52c14d4343",
+        "title": "Healthcare Trends and Innovations",
+        "content": "Stay updated on the latest healthcare trends and innovations",
+        "created_at": "2023-08-08T03:08:32.449Z",
+        "updated_at": "2023-08-07T12:09:36.789Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "21f3a578-d385-4e36-9752-0c07ed567ff6",
+        "title": "Tips for Successful Online Learning",
+        "content": "Get valuable tips for successful online learning",
+        "created_at": "2023-08-07T20:08:58.763Z",
+        "updated_at": "2023-08-08T02:40:11.769Z",
+        "organization_id": "main_entity_pk"
+      }
+    ]
+  },
+  {
+    "learning_resource": [
+      {
+        "id": "19db1fdf-ab59-47fc-9156-1b7323e121f0",
+        "created_at": "2023-08-08T00:56:34.297Z",
+        "updated_at": "2023-08-07T11:52:08.084Z",
+        "name": "Introduction to Python Programming"
+      },
+      {
+        "id": "1d9d9da5-b741-4884-b833-a75fa00ef0da",
+        "created_at": "2023-08-07T16:55:22.431Z",
+        "updated_at": "2023-08-08T02:42:02.797Z",
+        "name": "Web Development Basics"
+      },
+      {
+        "id": "a7830628-8021-427f-aa62-2a418dc500d6",
+        "created_at": "2023-08-08T00:45:51.758Z",
+        "updated_at": "2023-08-08T06:26:43.383Z",
+        "name": "Data Science for Beginners"
+      },
+      {
+        "id": "57021eed-459f-4063-b5d1-b1428064b45c",
+        "created_at": "2023-08-08T00:35:26.034Z",
+        "updated_at": "2023-08-08T06:35:19.248Z",
+        "name": "Digital Marketing Strategies"
+      },
+      {
+        "id": "ff7bb589-4d1c-4450-8125-af2630e00f9c",
+        "created_at": "2023-08-07T18:00:36.558Z",
+        "updated_at": "2023-08-07T07:07:47.624Z",
+        "name": "Photography Fundamentals"
+      }
+    ],
+    "course": [
+      {
+        "id": "5bc6f173-86cd-4661-a276-0133f5269f84",
+        "title": "Introduction to Artificial Intelligence",
+        "description": "Learn the basics of AI and its applications in various industries",
+        "created_at": "2023-08-07T18:36:13.211Z",
+        "updated_at": "2023-08-08T00:52:43.617Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "1f7bfe32-45a4-4f6c-b94e-d2d1e6085782",
+        "title": "Financial Management for Entrepreneurs",
+        "description": "Understand financial management principles for small business owners",
+        "created_at": "2023-08-07T21:37:33.115Z",
+        "updated_at": "2023-08-07T16:57:24.985Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "4f52efab-3b0d-407e-8ad5-6b7a5f0a59e3",
+        "title": "Leadership Skills for Managers",
+        "description": "Develop essential leadership skills to effectively manage teams",
+        "created_at": "2023-08-07T18:50:14.653Z",
+        "updated_at": "2023-08-08T05:32:01.264Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "20336ba9-6271-4d04-86cb-a152047f2b91",
+        "title": "Project Management Fundamentals",
+        "description": "Learn the fundamentals of project management and its best practices",
+        "created_at": "2023-08-07T21:28:00.370Z",
+        "updated_at": "2023-08-08T04:27:43.718Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "a54650c8-3f52-4128-ad53-a5a71f365586",
+        "title": "Effective Communication in the Workplace",
+        "description": "Improve communication skills for better collaboration and productivity",
+        "created_at": "2023-08-07T15:15:48.800Z",
+        "updated_at": "2023-08-08T05:43:00.795Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "blog": [
+      {
+        "id": "343215d2-ade6-4fad-84e3-75a358c01f24",
+        "title": "10 Tips for a Healthy Lifestyle",
+        "content": "Discover simple tips to maintain a healthy lifestyle and improve overall well-being",
+        "created_at": "2023-08-07T21:59:02.402Z",
+        "updated_at": "2023-08-07T23:44:51.829Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "13aa38b5-104f-44c9-a573-44f03f9e2ca7",
+        "title": "The Future of Technology",
+        "content": "Explore the latest advancements in technology and their impact on society",
+        "created_at": "2023-08-07T20:18:04.535Z",
+        "updated_at": "2023-08-07T09:31:24.398Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "9953d155-8bdd-4cc7-ad11-09c597a4700f",
+        "title": "Exploring New Travel Destinations",
+        "content": "Get inspired to travel to new and exciting destinations around the world",
+        "created_at": "2023-08-07T13:02:47.031Z",
+        "updated_at": "2023-08-08T02:17:38.519Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "b2bdeda8-4815-45d3-b0bf-78a91249af10",
+        "title": "The Art of Cooking Delicious Meals",
+        "content": "Learn the art of cooking delicious meals with easy-to-follow recipes",
+        "created_at": "2023-08-07T20:57:30.152Z",
+        "updated_at": "2023-08-08T06:18:41.195Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "61a4297b-5647-4e0d-a0ca-b84b810e9993",
+        "title": "Mastering the Art of Photography",
+        "content": "Master the art of photography with expert tips and techniques",
+        "created_at": "2023-08-08T04:56:24.233Z",
+        "updated_at": "2023-08-07T20:20:51.012Z",
+        "organization_id": "main_entity_pk"
+      }
+    ]
+  },
+  {
+    "learning_resource": [
+      {
+        "id": "06e10442-6080-4986-990f-19c26a45e63c",
+        "created_at": "2023-08-08T01:17:43.171Z",
+        "updated_at": "2023-08-08T01:54:33.901Z",
+        "name": "Introduction to Python Programming"
+      },
+      {
+        "id": "fac25af8-9a28-4f59-8d33-99820374ad27",
+        "created_at": "2023-08-07T09:16:53.147Z",
+        "updated_at": "2023-08-07T09:29:59.688Z",
+        "name": "Web Development Basics"
+      },
+      {
+        "id": "9a974f9f-aec5-48a7-b97d-aef38ccd1961",
+        "created_at": "2023-08-08T05:44:45.306Z",
+        "updated_at": "2023-08-07T17:01:46.109Z",
+        "name": "Data Science Fundamentals"
+      },
+      {
+        "id": "05f86350-197c-4ceb-adea-a7bedac29920",
+        "created_at": "2023-08-07T14:56:29.078Z",
+        "updated_at": "2023-08-07T16:11:34.520Z",
+        "name": "Digital Marketing Strategies"
+      },
+      {
+        "id": "5fdfea2a-325a-48c2-b5d7-b871a76a2275",
+        "created_at": "2023-08-07T23:40:15.419Z",
+        "updated_at": "2023-08-08T04:12:50.111Z",
+        "name": "Financial Planning 101"
+      }
+    ],
+    "course": [
+      {
+        "id": "13d90513-84f9-4945-8ec2-146a7f813836",
+        "title": "Introduction to Computer Science",
+        "description": "Learn the basics of computer science and programming",
+        "created_at": "2023-08-07T20:29:53.610Z",
+        "updated_at": "2023-08-07T18:18:59.448Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "423201d3-cf32-4f51-9d32-7ffa86bda40b",
+        "title": "Business Management Essentials",
+        "description": "Develop essential skills for managing a business",
+        "created_at": "2023-08-07T15:16:47.843Z",
+        "updated_at": "2023-08-07T15:37:23.698Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "32fa01dc-d356-49a7-b9f2-9b59f6fa70a7",
+        "title": "Artificial Intelligence in Healthcare",
+        "description": "Explore the applications of AI in the healthcare industry",
+        "created_at": "2023-08-07T09:51:29.844Z",
+        "updated_at": "2023-08-08T02:50:55.302Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "350d32b7-01ce-494f-b336-5cea9190af90",
+        "title": "Marketing Analytics",
+        "description": "Gain insights from data to drive marketing strategies",
+        "created_at": "2023-08-08T02:37:01.504Z",
+        "updated_at": "2023-08-08T04:46:40.013Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "5ab54f52-f530-4a16-9195-1da543577f7a",
+        "title": "Financial Accounting Principles",
+        "description": "Understand the principles of financial accounting",
+        "created_at": "2023-08-07T22:37:28.701Z",
+        "updated_at": "2023-08-07T17:38:23.972Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "blog": [
+      {
+        "id": "f7629dc8-6e17-4305-b628-3084780ee84b",
+        "title": "The Importance of Sustainable Living",
+        "content": "Discover ways to live a more sustainable lifestyle",
+        "created_at": "2023-08-07T08:47:29.327Z",
+        "updated_at": "2023-08-08T05:34:13.315Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "af7867d3-2467-4901-94cf-e138b445dc60",
+        "title": "Tips for Effective Time Management",
+        "content": "Learn effective techniques for managing your time",
+        "created_at": "2023-08-08T03:11:35.239Z",
+        "updated_at": "2023-08-07T10:50:42.779Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "b3c7ae6c-d894-4657-93e8-658e0ae936a8",
+        "title": "The Future of Artificial Intelligence",
+        "content": "Explore the potential of AI in various industries",
+        "created_at": "2023-08-07T16:51:42.672Z",
+        "updated_at": "2023-08-08T04:24:11.053Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "1cbb79f3-aa49-44cd-bd5c-4600656fdd19",
+        "title": "Social Media Marketing Strategies",
+        "content": "Strategies for successful social media marketing campaigns",
+        "created_at": "2023-08-07T08:04:19.394Z",
+        "updated_at": "2023-08-07T10:52:42.070Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "b0308a67-3f5d-4465-8972-695e23e5477f",
+        "title": "Investing in Real Estate",
+        "content": "Insights on investing in real estate for financial growth",
+        "created_at": "2023-08-07T10:54:03.661Z",
+        "updated_at": "2023-08-07T21:22:42.121Z",
+        "organization_id": "main_entity_pk"
+      }
+    ]
+  },
+  {
+    "learning_resource": [
+      {
+        "id": "0ac5ea91-0089-489d-a333-3c03cdb4df08",
+        "created_at": "2023-08-07T20:15:54.795Z",
+        "updated_at": "2023-08-07T19:22:04.055Z",
+        "name": "Introduction to Python Programming"
+      },
+      {
+        "id": "6ed09168-69e3-491f-8cdc-9d35706231fd",
+        "created_at": "2023-08-07T15:18:10.133Z",
+        "updated_at": "2023-08-07T10:27:25.003Z",
+        "name": "Web Development Basics"
+      },
+      {
+        "id": "9bf6282a-9ba5-4c79-988c-c236c389efd1",
+        "created_at": "2023-08-07T17:36:36.428Z",
+        "updated_at": "2023-08-08T03:23:32.320Z",
+        "name": "Data Science Fundamentals"
+      },
+      {
+        "id": "2eadeddb-e8e9-43b9-b413-af4023f35276",
+        "created_at": "2023-08-07T18:22:34.505Z",
+        "updated_at": "2023-08-07T21:07:22.004Z",
+        "name": "Digital Marketing Strategies"
+      },
+      {
+        "id": "4e8acc9c-28aa-4251-ad13-ac5b443503e7",
+        "created_at": "2023-08-07T11:47:00.033Z",
+        "updated_at": "2023-08-07T13:16:15.674Z",
+        "name": "Financial Planning 101"
+      }
+    ],
+    "course": [
+      {
+        "id": "78023a74-7f98-4919-9406-d4c53aff8a2c",
+        "title": "Introduction to Computer Science",
+        "description": "Learn the basics of computer science and programming",
+        "created_at": "2023-08-08T01:07:26.514Z",
+        "updated_at": "2023-08-07T09:33:32.540Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "650154fa-500e-4bb9-bd6a-8cfc6ea89144",
+        "title": "Business Management Essentials",
+        "description": "Develop essential skills for managing a business",
+        "created_at": "2023-08-07T14:16:03.445Z",
+        "updated_at": "2023-08-07T07:06:12.226Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "81f73276-959b-4870-8d7e-14c1cc0db234",
+        "title": "Artificial Intelligence Applications",
+        "description": "Explore the applications of artificial intelligence in various industries",
+        "created_at": "2023-08-07T16:03:21.858Z",
+        "updated_at": "2023-08-08T05:01:23.393Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "7f99aad8-68a4-498a-b3d1-c627631472da",
+        "title": "Marketing Strategies for Small Businesses",
+        "description": "Discover effective marketing strategies for small businesses",
+        "created_at": "2023-08-07T18:33:23.285Z",
+        "updated_at": "2023-08-07T22:44:35.286Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "357d6a6c-4444-40a0-b130-3d2216773892",
+        "title": "Financial Accounting Fundamentals",
+        "description": "Understand the fundamentals of financial accounting",
+        "created_at": "2023-08-08T00:08:10.293Z",
+        "updated_at": "2023-08-07T16:20:31.851Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "blog": [
+      {
+        "id": "088882fe-d36b-4785-9dfd-6e7b987a5e9d",
+        "title": "The Importance of Environmental Conservation",
+        "content": "Explore why environmental conservation is crucial for our planet",
+        "created_at": "2023-08-08T07:01:19.481Z",
+        "updated_at": "2023-08-07T17:16:25.390Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "a57f0923-6a6f-4e2f-8c81-888f23957621",
+        "title": "The Future of Technology",
+        "content": "Discover the latest advancements and trends in technology",
+        "created_at": "2023-08-07T11:17:46.395Z",
+        "updated_at": "2023-08-07T14:49:20.844Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "96b7ecc4-57d9-4124-beb1-d1c6bd816104",
+        "title": "Effective Leadership in Business",
+        "content": "Learn about effective leadership strategies in the business world",
+        "created_at": "2023-08-07T11:30:10.952Z",
+        "updated_at": "2023-08-07T09:52:27.492Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "b2ba3592-30bb-4046-94d8-576b62182252",
+        "title": "Digital Marketing Trends",
+        "content": "Stay updated on the latest digital marketing trends and strategies",
+        "created_at": "2023-08-07T10:36:36.163Z",
+        "updated_at": "2023-08-08T07:03:21.728Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "c5083457-732b-4fb6-9583-1b1c2ab8cdb5",
+        "title": "Personal Finance Tips",
+        "content": "Get valuable tips for managing personal finances",
+        "created_at": "2023-08-08T05:25:45.234Z",
+        "updated_at": "2023-08-07T17:24:24.035Z",
+        "organization_id": "main_entity_pk"
+      }
+    ]
+  },
+  {
+    "learning_resource": [
+      {
+        "id": "ecc8a7e4-cc89-4c0b-96da-7f880d9cb1d8",
+        "created_at": "2023-08-07T15:16:56.352Z",
+        "updated_at": "2023-08-07T08:25:48.620Z",
+        "name": "Introduction to Python Programming"
+      },
+      {
+        "id": "a194e47f-d65c-43bc-b69b-6ecade2b4712",
+        "created_at": "2023-08-07T20:57:32.283Z",
+        "updated_at": "2023-08-07T07:54:47.010Z",
+        "name": "Web Development Basics"
+      },
+      {
+        "id": "32a7f5eb-d460-4dcf-ab92-2b9f5880f78b",
+        "created_at": "2023-08-07T07:06:53.395Z",
+        "updated_at": "2023-08-07T10:54:15.813Z",
+        "name": "Data Science Fundamentals"
+      },
+      {
+        "id": "5a0c1ef0-fd74-44d2-bcf1-5b1737ce768d",
+        "created_at": "2023-08-07T17:50:36.847Z",
+        "updated_at": "2023-08-08T02:22:15.754Z",
+        "name": "Digital Marketing Strategies"
+      },
+      {
+        "id": "f7d75c1c-a815-4110-a102-3b6e30e4b3c3",
+        "created_at": "2023-08-07T14:07:49.194Z",
+        "updated_at": "2023-08-07T12:44:26.835Z",
+        "name": "Financial Planning 101"
+      }
+    ],
+    "course": [
+      {
+        "id": "6c8fb79b-33a3-4976-ac8c-0ebb7e43dba1",
+        "title": "Introduction to Computer Science",
+        "description": "This course provides an introduction to the fundamental concepts of computer science.",
+        "created_at": "2023-08-08T01:54:16.304Z",
+        "updated_at": "2023-08-07T23:22:54.296Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "d34fe6a0-aeb6-49da-b88c-bcb3c0ab51a6",
+        "title": "Marketing Principles and Strategies",
+        "description": "Learn about marketing principles, strategies, and tactics to promote products and services.",
+        "created_at": "2023-08-07T19:46:41.933Z",
+        "updated_at": "2023-08-07T19:11:53.903Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "d3618fa6-c3ba-4598-9f05-3dc5208bf02c",
+        "title": "Business Ethics and Corporate Social Responsibility",
+        "description": "Explore the ethical considerations and social responsibilities of businesses.",
+        "created_at": "2023-08-08T01:03:05.933Z",
+        "updated_at": "2023-08-07T07:58:11.728Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "5bf58669-ffc2-49a6-b877-464dbe86646a",
+        "title": "Artificial Intelligence and Machine Learning",
+        "description": "Discover the principles and applications of artificial intelligence and machine learning.",
+        "created_at": "2023-08-07T21:56:43.182Z",
+        "updated_at": "2023-08-07T14:27:44.910Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "7a488cbd-e6f6-4bf5-82e1-1aea19dd1c3b",
+        "title": "Project Management Fundamentals",
+        "description": "Develop essential project management skills to successfully plan and execute projects.",
+        "created_at": "2023-08-07T21:09:39.534Z",
+        "updated_at": "2023-08-07T17:24:44.939Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "blog": [
+      {
+        "id": "9c7bcffc-afb0-4b7e-97f3-e4173db23722",
+        "title": "The Importance of Work-Life Balance",
+        "content": "Maintaining a healthy work-life balance is crucial for overall well-being and productivity.",
+        "created_at": "2023-08-07T18:36:13.630Z",
+        "updated_at": "2023-08-07T13:52:39.592Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "1adabf52-c477-4e27-9ad7-67349b752a5f",
+        "title": "Tips for Effective Time Management",
+        "content": "Learn effective time management techniques to improve productivity and reduce stress.",
+        "created_at": "2023-08-07T16:50:20.580Z",
+        "updated_at": "2023-08-07T21:34:38.196Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "8516c129-f081-4a66-92a8-6889ad9dba26",
+        "title": "The Power of Positive Thinking",
+        "content": "Positive thinking can have a profound impact on mental health and overall happiness.",
+        "created_at": "2023-08-07T18:30:49.821Z",
+        "updated_at": "2023-08-07T15:46:11.714Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "1a42d8be-1ace-423c-a0d8-d81a2179d03b",
+        "title": "How to Build Strong Relationships",
+        "content": "Building strong relationships is essential for personal and professional success.",
+        "created_at": "2023-08-08T05:19:39.637Z",
+        "updated_at": "2023-08-07T17:51:25.546Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "b37ff8f6-7cca-4319-929e-d7438bf95346",
+        "title": "The Benefits of Regular Exercise",
+        "content": "Regular exercise has numerous physical and mental health benefits.",
+        "created_at": "2023-08-07T23:01:43.500Z",
+        "updated_at": "2023-08-07T16:31:17.263Z",
+        "organization_id": "main_entity_pk"
+      }
+    ]
+  },
+  {
+    "learning_resource": [
+      {
+        "id": "3a8c320a-0649-4d34-8d7a-37720b056841",
+        "created_at": "2023-08-07T09:22:35.729Z",
+        "updated_at": "2023-08-08T04:44:06.824Z",
+        "name": "Introduction to Python Programming"
+      },
+      {
+        "id": "2559e561-487d-40b1-a92b-c8b35bef3a49",
+        "created_at": "2023-08-07T11:48:55.622Z",
+        "updated_at": "2023-08-08T05:34:37.922Z",
+        "name": "Web Development Basics"
+      },
+      {
+        "id": "56f41794-bba7-46c4-b22d-e79ec25d7423",
+        "created_at": "2023-08-07T10:01:40.527Z",
+        "updated_at": "2023-08-08T02:08:49.433Z",
+        "name": "Data Science Fundamentals"
+      },
+      {
+        "id": "a15ad649-393f-4da0-985d-e78f4c06184e",
+        "created_at": "2023-08-08T04:29:03.793Z",
+        "updated_at": "2023-08-07T08:32:47.744Z",
+        "name": "Digital Marketing Strategies"
+      },
+      {
+        "id": "10408e43-8829-49c2-97ea-b75287439281",
+        "created_at": "2023-08-08T03:57:06.700Z",
+        "updated_at": "2023-08-08T03:42:27.265Z",
+        "name": "Financial Planning 101"
+      }
+    ],
+    "course": [
+      {
+        "id": "596ab817-e291-440d-9918-f568974b51ff",
+        "title": "Introduction to Computer Science",
+        "description": "Explore the fundamental concepts of computer science and programming",
+        "created_at": "2023-08-08T03:07:18.181Z",
+        "updated_at": "2023-08-07T16:22:23.094Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "6a8cbd59-eb41-4df9-9764-8f2e4efb1052",
+        "title": "Marketing Principles and Strategies",
+        "description": "Learn about marketing principles, strategies, and tactics",
+        "created_at": "2023-08-07T22:18:33.746Z",
+        "updated_at": "2023-08-07T13:36:52.049Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "d0e506c0-fbd8-4cbf-8618-67cd6c256fda",
+        "title": "Business Ethics and Corporate Social Responsibility",
+        "description": "Understand the importance of ethics in business and corporate social responsibility",
+        "created_at": "2023-08-07T09:26:06.761Z",
+        "updated_at": "2023-08-07T15:10:23.941Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "f8c3b42c-d196-4c39-9d6a-68fadd425bfa",
+        "title": "Artificial Intelligence and Machine Learning",
+        "description": "Discover the applications and techniques of artificial intelligence and machine learning",
+        "created_at": "2023-08-08T00:50:54.686Z",
+        "updated_at": "2023-08-08T05:05:21.990Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "7478fc4a-a4fe-415a-b206-1c32683a1281",
+        "title": "Project Management Fundamentals",
+        "description": "Develop essential project management skills for successful project execution",
+        "created_at": "2023-08-08T01:04:37.788Z",
+        "updated_at": "2023-08-07T13:17:51.817Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "blog": [
+      {
+        "id": "a9c93e96-d51e-422f-85e5-3f36aad317d2",
+        "title": "The Importance of Work-Life Balance",
+        "content": "Maintaining a healthy work-life balance is crucial for overall well-being and productivity",
+        "created_at": "2023-08-08T04:00:53.994Z",
+        "updated_at": "2023-08-07T23:27:58.765Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "7200cb4c-eda0-4c76-b90f-f50df6ab9916",
+        "title": "Tips for Effective Time Management",
+        "content": "Effective time management can help improve productivity and reduce stress",
+        "created_at": "2023-08-07T22:45:01.701Z",
+        "updated_at": "2023-08-07T10:37:07.638Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "89197425-da0b-4b56-9f16-456cb2b6e80d",
+        "title": "The Power of Positive Thinking",
+        "content": "Positive thinking can have a significant impact on mental health and overall happiness",
+        "created_at": "2023-08-07T15:18:15.968Z",
+        "updated_at": "2023-08-07T07:26:44.498Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "f1866f8e-c288-4701-8fae-5df06985e610",
+        "title": "How to Build Strong Relationships",
+        "content": "Building strong relationships is essential for personal and professional growth",
+        "created_at": "2023-08-08T00:54:10.474Z",
+        "updated_at": "2023-08-08T03:09:02.667Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "3b8c91ae-1f0b-4220-ae62-57420726ef0b",
+        "title": "The Benefits of Regular Exercise",
+        "content": "Regular exercise offers numerous physical and mental health benefits",
+        "created_at": "2023-08-07T12:38:04.723Z",
+        "updated_at": "2023-08-08T00:56:39.327Z",
+        "organization_id": "main_entity_pk"
+      }
+    ]
+  },
+  {
+    "learning_resource": [
+      {
+        "id": "708da6c1-652c-431c-9efe-6cc4fab1b7b5",
+        "created_at": "2023-08-07T22:20:31.575Z",
+        "updated_at": "2023-08-08T01:03:19.324Z",
+        "name": "Introduction to Python Programming"
+      },
+      {
+        "id": "0b6468d6-dc77-4bf0-befc-4d96634f490f",
+        "created_at": "2023-08-07T18:34:10.267Z",
+        "updated_at": "2023-08-08T03:23:26.472Z",
+        "name": "Web Development Basics"
+      },
+      {
+        "id": "ac080c4b-b193-4f11-80b5-d13e27885cb7",
+        "created_at": "2023-08-08T02:28:24.075Z",
+        "updated_at": "2023-08-07T10:53:59.754Z",
+        "name": "Data Science Fundamentals"
+      },
+      {
+        "id": "ce0329da-1654-480f-a3cf-c69880c1b61d",
+        "created_at": "2023-08-08T01:48:23.786Z",
+        "updated_at": "2023-08-07T08:50:33.840Z",
+        "name": "Digital Marketing Strategies"
+      },
+      {
+        "id": "00878af5-c30e-48d3-b812-031c8a815524",
+        "created_at": "2023-08-07T12:55:59.899Z",
+        "updated_at": "2023-08-07T09:27:51.871Z",
+        "name": "Financial Planning 101"
+      }
+    ],
+    "course": [
+      {
+        "id": "5b4ae90f-0a6d-4b2d-ab74-f416482eba61",
+        "title": "Introduction to Computer Science",
+        "description": "Learn the basics of computer science and programming",
+        "created_at": "2023-08-08T06:26:52.153Z",
+        "updated_at": "2023-08-07T07:47:15.263Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "5e8d27c9-9cf1-49b1-91ef-61f86aa8d7f2",
+        "title": "Artificial Intelligence Essentials",
+        "description": "Explore the concepts and applications of artificial intelligence",
+        "created_at": "2023-08-07T11:29:04.124Z",
+        "updated_at": "2023-08-08T04:20:40.833Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "8afcf5b3-185c-4a4a-abd0-66b27b9a864b",
+        "title": "Web Design and Development",
+        "description": "Master the skills required for web design and development",
+        "created_at": "2023-08-07T10:37:43.492Z",
+        "updated_at": "2023-08-08T05:35:40.153Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "6b37a9a8-b373-41e1-ac8a-273048f9d94d",
+        "title": "Marketing Principles",
+        "description": "Discover effective marketing strategies and techniques",
+        "created_at": "2023-08-07T16:19:13.533Z",
+        "updated_at": "2023-08-08T02:48:58.154Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "5950ee6e-4876-4c1f-86c2-dda1b908312f",
+        "title": "Business Finance Fundamentals",
+        "description": "Understand the fundamentals of business finance and financial management",
+        "created_at": "2023-08-07T16:36:19.147Z",
+        "updated_at": "2023-08-07T22:08:14.507Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "blog": [
+      {
+        "id": "fefbb9fb-c4cd-4737-8077-97c3dd56ced7",
+        "title": "The Importance of Environmental Conservation",
+        "content": "Explore why environmental conservation is crucial for our planet",
+        "created_at": "2023-08-08T01:23:18.704Z",
+        "updated_at": "2023-08-07T07:44:25.046Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "e0eb3414-6364-4279-b118-808e99ab42e7",
+        "title": "The Future of Technology",
+        "content": "Discover the latest advancements and trends in technology",
+        "created_at": "2023-08-07T08:35:35.108Z",
+        "updated_at": "2023-08-07T19:00:26.381Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "24bd5dd3-14ce-456e-8a96-585cab2e87f7",
+        "title": "Effective Leadership in Business",
+        "content": "Learn about effective leadership strategies in the business world",
+        "created_at": "2023-08-08T06:08:59.997Z",
+        "updated_at": "2023-08-08T04:04:12.514Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "f00e9166-9a96-4e64-b777-5bd0343015bb",
+        "title": "Healthcare Trends and Innovations",
+        "content": "Stay updated on the latest healthcare trends and innovations",
+        "created_at": "2023-08-08T02:04:24.287Z",
+        "updated_at": "2023-08-07T10:49:04.146Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "7651a438-b5ee-42d3-9942-9bc5cd1ec00a",
+        "title": "Tips for Successful Online Learning",
+        "content": "Get valuable tips for successful online learning",
+        "created_at": "2023-08-07T08:14:24.383Z",
+        "updated_at": "2023-08-07T16:30:10.342Z",
+        "organization_id": "main_entity_pk"
+      }
+    ]
+  },
+  {
+    "learning_resource": [
+      {
+        "id": "7a2e8967-2efa-4b8c-9f3c-05e027664b1a",
+        "created_at": "2023-08-07T21:15:30.853Z",
+        "updated_at": "2023-08-07T08:07:08.467Z",
+        "name": "Introduction to Python Programming"
+      },
+      {
+        "id": "f46ecf58-83c5-4b9b-9d7e-25b10ca81112",
+        "created_at": "2023-08-07T19:25:46.259Z",
+        "updated_at": "2023-08-08T01:04:39.246Z",
+        "name": "Web Development Basics"
+      },
+      {
+        "id": "f5713743-55b5-4f68-9b06-fdbd140a9d71",
+        "created_at": "2023-08-07T20:39:38.149Z",
+        "updated_at": "2023-08-07T13:39:57.383Z",
+        "name": "Data Science Fundamentals"
+      },
+      {
+        "id": "870713be-8422-45cb-9f99-a529e49cbbdf",
+        "created_at": "2023-08-07T13:56:24.779Z",
+        "updated_at": "2023-08-07T10:30:36.733Z",
+        "name": "Digital Marketing Strategies"
+      },
+      {
+        "id": "0fa2c7a0-8b06-413e-9225-4261cbf75819",
+        "created_at": "2023-08-08T01:46:03.419Z",
+        "updated_at": "2023-08-07T14:44:39.227Z",
+        "name": "Financial Planning 101"
+      }
+    ],
+    "course": [
+      {
+        "id": "8f07b988-8c58-454e-ae08-a55f1b037b0a",
+        "title": "Introduction to Computer Science",
+        "description": "Learn the basics of computer science and programming",
+        "created_at": "2023-08-07T23:57:24.194Z",
+        "updated_at": "2023-08-08T00:17:24.509Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "c5f6b543-2e00-4565-a2bf-c3c5f9c89027",
+        "title": "Business Management Essentials",
+        "description": "Develop essential skills for managing a business",
+        "created_at": "2023-08-08T05:29:26.520Z",
+        "updated_at": "2023-08-07T14:21:59.250Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "6595a995-9686-481d-88fa-9725e204528c",
+        "title": "Artificial Intelligence Applications",
+        "description": "Explore the applications of artificial intelligence in various industries",
+        "created_at": "2023-08-07T19:02:34.368Z",
+        "updated_at": "2023-08-08T02:56:34.475Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "a961189e-8d05-4302-9fbc-88b362d543a3",
+        "title": "Marketing Strategies for Small Businesses",
+        "description": "Discover effective marketing strategies for small businesses",
+        "created_at": "2023-08-08T07:04:49.976Z",
+        "updated_at": "2023-08-07T08:52:47.498Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "f261aead-1eb5-4894-84b1-f9455bf21c4a",
+        "title": "Financial Accounting Fundamentals",
+        "description": "Understand the fundamentals of financial accounting",
+        "created_at": "2023-08-07T21:03:31.469Z",
+        "updated_at": "2023-08-07T21:16:55.579Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "blog": [
+      {
+        "id": "00dd341c-b91a-48f7-a2d0-685118b9b5ae",
+        "title": "The Importance of Environmental Conservation",
+        "content": "Explore why environmental conservation is crucial for our planet",
+        "created_at": "2023-08-08T04:26:35.538Z",
+        "updated_at": "2023-08-07T23:20:57.932Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "f49bfd66-b56c-4dd4-9cf0-043f8984da4b",
+        "title": "The Future of Technology",
+        "content": "Discover the latest advancements in technology and their impact on society",
+        "created_at": "2023-08-07T09:02:19.694Z",
+        "updated_at": "2023-08-08T06:21:01.540Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "06af2991-7990-475a-9351-9d324da4bf52",
+        "title": "Effective Leadership in Business",
+        "content": "Learn about effective leadership strategies in the business world",
+        "created_at": "2023-08-07T07:19:08.671Z",
+        "updated_at": "2023-08-07T23:41:54.257Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "17fd4a2b-9913-40d7-aa6f-b4ac7cf94d06",
+        "title": "Digital Marketing Trends",
+        "content": "Stay updated on the latest digital marketing trends and strategies",
+        "created_at": "2023-08-07T08:35:24.197Z",
+        "updated_at": "2023-08-07T07:50:39.192Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "d5a7d43b-6cd6-4d53-8326-85f7d69786cb",
+        "title": "Personal Finance Tips",
+        "content": "Get valuable tips for managing personal finances and achieving financial goals",
+        "created_at": "2023-08-08T00:50:22.192Z",
+        "updated_at": "2023-08-07T07:14:04.895Z",
+        "organization_id": "main_entity_pk"
+      }
+    ]
+  }
+]
